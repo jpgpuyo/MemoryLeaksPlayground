@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemoryLeaksPlayground</string>
+
+    <!-- Save password -->
+    <string name="prompt_password">Password</string>
+    <string name="action_new_password">New password</string>
+    <string name="action_show_current_password">Show current password</string>
+    <string name="save_password_success">Password saved</string>
+</resources>
